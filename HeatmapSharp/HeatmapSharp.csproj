@@ -43,9 +43,9 @@
         <PackageId>HeatmapSharp</PackageId>
         <Version>0.0.1</Version>
         <Authors>ArkamFahry</Authors>
-        <RepositoryUrl>https://github.com/codefrantic/HeatmapSharp</RepositoryUrl>
+        <RepositoryUrl>https://github.com/pixelbend/HeatmapSharp</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
-        <PackageProjectUrl>https://github.com/codefrantic/HeatmapSharp</PackageProjectUrl>
+        <PackageProjectUrl>https://github.com/pixelbend/HeatmapSharp</PackageProjectUrl>
         <PackageTags>heatmapping heatmapper image-processing</PackageTags>
         <Description>
             An image heatmapping helper built on top of ImageSharp
